@@ -1,8 +1,0 @@
-this is a test for git by yuany at 1420
-secend write in this file
-new branch for dev
-<<<<<<< HEAD
-fourth change at night
-=======
-fourth change at night
->>>>>>> dev

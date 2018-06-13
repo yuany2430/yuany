@@ -1,1 +1,2 @@
 this is a test for git by yuany at 1420
+secend write in this file
